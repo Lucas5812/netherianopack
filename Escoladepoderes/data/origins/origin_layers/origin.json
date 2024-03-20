@@ -1,0 +1,9 @@
+{
+	"origins": [
+		"netherianopack:netheriano",
+		"netherianopack:draconico",
+		"netherianopack:sincelo",
+		"netherianopack:netherianosegundo"
+	],
+	"replace": true
+}

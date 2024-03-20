@@ -1,0 +1,11 @@
+{
+	"powers": [
+	
+		"netherianopack:atirar_neve"
+	],
+	"icon": "minecraft:snowball",
+	"order": 13,
+	"impact": 3,
+	"name": "Sincelo",
+	"description": "Nascido da geada, você faz parte de um povo ancestral que herda uma afinidade monstruosa com a neve"
+}

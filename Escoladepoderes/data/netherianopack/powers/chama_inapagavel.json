@@ -1,0 +1,19 @@
+{
+	
+	"type": "origins:conditioned_attribute",
+	"modifier": {
+		"attribute": "minecraft:generic.max_health",
+		"operation": "addition",
+		"value": 20,
+		"name": "ganha uma barra a mais de vida"
+	},
+	"tick_rate": 20,
+	"condition": {
+		"type": "origins:xp_levels",
+		"comparison": ">=",
+		"compare_to": 50
+	},
+	"name": "chama inapagável",
+	"description": "A chama que existe em você está mais forte, não é mais tão facil apaga-la",
+	"hidden": true
+}

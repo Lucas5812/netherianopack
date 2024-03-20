@@ -1,0 +1,25 @@
+{
+	"type": "origins:fire_projectile", 
+	"entity_type": "minecraft:fireball",
+	"cooldown": 200,
+	"count": 1,
+	"speed": 1.5,
+	"divergence": 1,
+	"tag": "{pickup:0b}",
+	"key": {
+		"key": "key.origins.primary_active",
+		"continuous": false
+	},
+	"hud_render": {
+		"should_render": true,
+		"sprite_location": "Escoladepoderes:textures/gui/community/huang/resource_bar_02.png",
+		"bar_index": 7
+	},
+	"name": "atirar chamas",
+	"description": "Assim como os ghasts, você pode conjurar bolas de fogo explosivas",
+	"condition": {
+		"type": "origins:xp_levels",
+		"comparison": ">=",
+		"compare_to": 11
+	}	
+}

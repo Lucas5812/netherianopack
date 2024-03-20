@@ -1,0 +1,14 @@
+{
+	"powers": [
+		"netherianopack:saude_draconica",
+		"netherianopack:dragaobebe",
+		"netherianopack:dragaojovem",
+		"netherianopack:dragaoadulto",
+		"netherianopack:dragaoanciao"
+	],
+	"icon": "minecraft:dragon_breath",
+	"order": 10,
+	"impact": 3,
+	"name": "Dracônico",
+	"description": "Filho do end, você é uma criatura muito rara, devido às condições específicas e improváveis para nascer. Apesar de inicialmente fraco, os dracônicos se tornam muito poderosos quando adultos."
+}

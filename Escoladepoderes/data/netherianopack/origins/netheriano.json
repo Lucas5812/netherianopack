@@ -1,0 +1,24 @@
+{
+	"powers": [
+		"origins:burning_wrath",
+		"origins:fire_immunity",
+		"origins:flame_particles",
+		"origins:damage_from_snowballs",
+		"origins:damage_from_potions",
+		"origins:water_vulnerability",
+		"origins:nether_spawn",
+		"netherianopack:toque_das_chamas",
+		"netherianopack:voar_nas_chamas",
+		"netherianopack:atirar_chamas",
+		"netherianopack:atirar_boladefogo",
+		"netherianopack:atirar_bolasdefogo",
+		"netherianopack:chama_inapagavel",
+		"netherianopack:chama_reclusa",
+		"netherianopack:se_incendiar"
+	],
+	"icon": "minecraft:netherite_ingot",
+	"order": 11,
+	"impact": 3,
+	"name": "Netheriano",
+	"description": "Você é, de alguma forma, um descendente do nether e herda parte de seu poder"
+}

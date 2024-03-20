@@ -1,0 +1,20 @@
+{
+  "type": "origins:launch",
+  "cooldown": 1,
+  "hud_render": {
+    "bar_index": 4
+  },
+  "sound": "minecraft:entity.parrot.fly",
+  "speed": 1,
+  "key": {
+    "key": "key.jump",
+    "continuous": true
+  }
+  "name": "voar nas chamas",
+  "description": "agora você é capaz de se projetar no ar a partir do fogo",
+  "condition": {
+		"type": "origins:xp_levels",
+		"comparison": ">=",
+		"compare_to": 30
+	}	
+}

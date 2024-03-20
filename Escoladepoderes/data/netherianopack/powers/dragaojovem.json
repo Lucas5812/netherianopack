@@ -1,0 +1,18 @@
+{
+	"type": "origins:conditioned_attribute",
+	"modifier": {
+		"attribute": "minecraft:generic.max_health",
+		"operation": "addition",
+		"value": 6,
+		"name": "recebe de volta os 3 corações de vida"
+	},
+	"tick_rate": 3,
+	"condition": {
+		"type": "origins:xp_levels",
+		"comparison": ">=",
+		"compare_to": 21
+	},
+	"name": "dragão jovem",
+	"description": "No que seria o início da adolescência, seu corpo está se endurecendo, proporcionando-lhe durabilidade similar à de um humano",
+	"hidden": true
+}
