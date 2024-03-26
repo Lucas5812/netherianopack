@@ -12,5 +12,12 @@
     },
     "key": {
         "key": "key.origins.secondary_active"
+    },
+    "name": "Se incendiar",
+    "description": "Você pode por seu corpo em chamas durante 8 segundos, combine isso com sua passiva 'fúria flamejante' e cause um estrago!",
+    "condition": {
+        "type": "origins:xp_levels",
+        "comparison": ">=",
+        "compare_to": 25
     }
 }
