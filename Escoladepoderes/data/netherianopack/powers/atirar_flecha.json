@@ -1,6 +1,6 @@
 {
 	"type": "origins:fire_projectile",
-	"entity_type": "minecraft:snowball",
+	"entity_type": "minecraft:arrow",
 	"cooldown": 160,
 	"count": 1,
 	"speed": 1.8,
@@ -15,11 +15,12 @@
 		"sprite_location": "origins:textures/gui/community/spiderkolo/resource_bar_02.png",
 		"bar_index": 6
 	},
+	"hidden": true,
 	"name": "Atirar neve",
-	"description": "Você pode atirar bolas de neve para deixar seus inimigos lentos, em niveis maiores esse poder fica mais forte!",
+	"description": "Você pode atirar flechas congelantes para deixar seus inimigos lentos, em niveis maiores esse poder fica mais forte!",
 	"condition": {
 		"type": "origins:xp_levels",
-		"comparison": "<=",
+		"comparison": ">=",
 		"compare_to": 10
 	}
 }

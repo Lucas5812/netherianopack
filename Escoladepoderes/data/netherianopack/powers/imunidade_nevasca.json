@@ -1,0 +1,14 @@
+{
+    "type": "origins:effect_immunity",
+    "effects": [
+        "minecraft:blindness",
+        "minecraft:slowness"
+    ],
+		"hidden": true,
+	"condition": {
+		"type": "origins:resource",
+		"resource": "netherianopack:expandir_nevasca",
+		"comparison": ">=",
+		"compare_to": 1
+	}
+}
