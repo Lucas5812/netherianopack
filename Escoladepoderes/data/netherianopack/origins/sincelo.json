@@ -1,7 +1,10 @@
 {
 	"powers": [
-		
-		"netherianopack:atirar_neve"
+		"netherianopack:expandir_nevasca",
+		"netherianopack:atirar_neve",
+		"netherianopack:imunidade_nevasca",
+		"netherianopack:atirar_flecha",
+		"netherianopack:dano_fogo"
 	],
 	"icon": "minecraft:snowball",
 	"order": 12,
