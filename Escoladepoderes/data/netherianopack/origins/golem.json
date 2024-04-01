@@ -1,0 +1,10 @@
+{
+	"powers": [
+		"packnamehere:powernamehere"
+	],
+	"icon": "minecraft:iron_block",
+	"order": 13,
+	"impact": 3,
+	"name": "Golem",
+	"description": "Você é uma criatura gerada das explorações humandas em cavernas, você é gerado a por metais unidos em cavernas"
+}
