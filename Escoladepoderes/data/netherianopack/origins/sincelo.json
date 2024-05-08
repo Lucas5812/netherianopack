@@ -4,7 +4,9 @@
 		"netherianopack:atirar_neve",
 		"netherianopack:imunidade_nevasca",
 		"netherianopack:atirar_flecha",
-		"netherianopack:dano_fogo"
+		"netherianopack:dano_fogo",
+		"netherianopack:pele_azul",
+		"netherianopack:particula_neve"
 	],
 	"icon": "minecraft:snowball",
 	"order": 12,

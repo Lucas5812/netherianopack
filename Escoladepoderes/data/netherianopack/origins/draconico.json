@@ -4,7 +4,12 @@
 		"netherianopack:dragaobebe",
 		"netherianopack:dragaojovem",
 		"netherianopack:dragaoadulto",
-		"netherianopack:dragaoanciao"
+		"netherianopack:dragaoanciao",
+		"netherianopack:atirar_boladraconica",
+		"netherianopack:resistencia_magica",
+		"netherianopack:escama_draconica",
+		"netherianopack:voo_draconico",
+		"origins:elytra"
 	],
 	"icon": "minecraft:dragon_breath",
 	"order": 10,

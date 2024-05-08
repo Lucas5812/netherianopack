@@ -2,8 +2,7 @@
 	"origins": [
 		"netherianopack:netheriano",
 		"netherianopack:draconico",
-		"netherianopack:sincelo",
-		"netherianopack:netherianosegundo"
+		"netherianopack:sincelo"
 	],
 	"replace": true
 }

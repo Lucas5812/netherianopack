@@ -1,0 +1,18 @@
+{
+    "type": "origins:invulnerability",
+    "damage_condition": {
+		"type": "origins:or",
+		"conditions":[
+			{
+				"type": "origins:name",
+				"name": "magic"
+			},
+			{
+				"type": "origins:name",
+				"name": "indirectMagic"
+			}
+		]
+    },
+	"name": "Resistência a magia",
+	"description": "Devido a anos de evolução, suas escamas se tornaram resistentes a danos magicos"
+}

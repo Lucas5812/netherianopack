@@ -1,0 +1,50 @@
+Patch Notes versão pré-lançamento 0.8
+
+		DRACONICO
+	Novo poder: voo draconico[50+]
+Parecido com o poder da raça elitriano original, porém a habilidade draconica é mais rápida e tem o cooldown menor
+
+	Adicionado Elitras[0+]
+Agora draconicos tem asas de élitro desde o nivel 0
+
+	Nova passiva: Escamas draconicas[variavel]
+A cada 25 níveis você ganha 2.5(um simbolo e 1/4) pontos de armadura parando no nivel 100 com 10(5 simbolos) pontos
+
+		[TBA]
+Armazenar bafo permanece sem ser adicionado(o mula esqueceu)
+
+		Correção de bugs
+
+Como prometido, foi corrigido o bug aonde os poderes que aumentavam a vida do draconico não funcionava, contudo, foi decidido que os 4 poderes serão desfeitos e unidos em apenas um poder que terá o efeito dos 4, possivelmente vai lançar na 0.9
+
+Removido 2 poderes que não eram usados no datapack mas por preguiça do desenvolvedor eles haviam permanecidos nos arquivos do jogo, os poderes eram "voar_nas_chamas"(foi removido pois o tipo de poder que tentei usar não existe na versão que utilizo) e "atirar_bolas_de_fogo"(tive problemas na hora de fazer esse poder a mt tempo atrás e só conclui que seria mt forte)
+
+
+Patch Notes versão pré-lançamento 0.7
+
+		DRACONICO
+	Novo poder: atirar bola de fogo do end[25+]
+Similar ao feito pelo próprio ender dragon, você pode disparar bolas de fogo que criam uma área que causa o efeito de dano instantaneo 2 a todos na área, o poder atualmente tem o mesmo cooldown da habilidade atirar bolas de fogo do netheriano, contudo isso muito provavelmente vai mudar até o lançamento.
+
+	Nova passiva: resistência mágica[0+]
+Milênios de evolução e adaptação tornaram os dragões as bestas inderrubáveis que são, suas escamas são praticamente impenetráveis para qualquer ataque mágico, isso inclui veneno e poções de dano instantâneo, assim como o próprio bafo de dragão.
+
+		[TBA] A partir daqui as coisas que estão no cronograma de adição, mas ainda não está dentro do jogo:
+
+	Armazenar bafo[0+]
+Você pode guardar o seu bafo em uma garrafa.
+
+	Evolução draconica[variavel]
+Apesar de ja existir nos arquivos do datapack, os poderes "dragão ancião" e "dragão adulto" não são usados/seu efeito não ativa, ainda vai ser corrigido, em resumo, nos niveis mais altos da raça o draconico iria conseguir mais pontos de vida(querendo ou não, essa raça vai ser  literalmente o tank universal).
+
+	Voar[50+]
+Após algum tempo suas asas se desenvolvem, e então você poderá voar.
+
+	Escamas draconicas[variavel]
+Conforme o tempo passa, suas escamas vão ficando cada vez mais resistentes, aumento passivo de armadura conforme os niveis sobem.
+
+		NETHERIANO
+Apenas alterações internas foram feitas, apesar de terem sido deletados, a raça ainda buscava o poder de atirar multiplas bolas de fogo e de vôo, isso foi resolvido.
+
+		BUGS A SEREM CORRIGIDOS
+Por mais que tenha sido mencionado o tópico da evolução dracônica, o poder ja existe dentro do jogo e por algum motivo não é considerado, será resolvido na 0.8

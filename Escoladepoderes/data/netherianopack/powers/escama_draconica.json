@@ -1,0 +1,52 @@
+{
+	"type": "origins:multiple",
+	"jovem": {
+		"type": "origins:conditioned_attribute",
+		"modifier": {
+			"attribute": "minecraft:generic.armor",
+			"operation": "addition",
+			"value": 2.5
+		},
+		"tick_rate": 20,
+		"condition": {
+			"type": "origins:xp_levels",
+			"comparison": ">=",
+			"compare_to": 25
+		}
+	},
+	
+	
+	"adulto": {
+		"type": "origins:conditioned_attribute",
+		"modifier": {
+			"attribute": "minecraft:generic.armor",
+			"operation": "addition",
+			"value": 2.5
+		},
+		"tick_rate": 20,
+		"condition": {
+			"type": "origins:xp_levels",
+			"comparison": ">=",
+			"compare_to": 50
+		}
+	},
+	
+	"anciao": {
+		"type": "origins:conditioned_attribute",
+		"modifier": {
+			"attribute": "minecraft:generic.armor",
+			"operation": "addition",
+			"value": 5.0
+		},
+		"tick_rate": 20,
+		"condition": {
+			"type": "origins:xp_levels",
+			"comparison": ">=",
+			"compare_to": 100
+		}
+	},
+	
+	
+	"name": "Escamas dracônicas",
+	"description": "Apesar de não estar desenvolvida na infância, suas escamas vão crescer com o tempo, lhe tornando aos poucos mais resistente"
+}

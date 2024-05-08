@@ -6,13 +6,13 @@
 		"value": 20,
 		"name": "ganha uma barra a mais de vida"
 	},
-	"tick_rate": 3,
+	"tick_rate": 20,
 	"condition": {
 		"type": "origins:xp_levels",
 		"comparison": ">=",
 		"compare_to": 50
 	},
 	"name": "dragão adulto",
-	"description": "ja sendo um dragão adulto, sua carapaça se mostra bem mais resistente que a maioria das raças, praticamente o dobro de um humano."
+	"description": "ja sendo um dragão adulto, sua carapaça se mostra bem mais resistente que a maioria das raças, praticamente o dobro de um humano.",
 	"hidden": true
 }

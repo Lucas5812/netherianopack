@@ -1,0 +1,25 @@
+{
+	"type": "origins:fire_projectile", 
+	"entity_type": "minecraft:dragon_fireball",
+	"cooldown": 300,
+	"count": 1,
+	"speed": 1.5,
+	"divergence": 1,
+	"tag": "{pickup:0b}",
+	"key": {
+		"key": "key.origins.primary_active",
+		"continuous": false
+	},
+	"hud_render": {
+		"should_render": true,
+		"sprite_location": "origins:textures/gui/resource_bar.png",
+		"bar_index": 3
+	},
+	"name": "atirar bola draconica",
+	"description": "Assim como o ender dragon, você pode conjurar bolas de fogo que criam uma área de dano",
+	"condition": {
+		"type": "origins:xp_levels",
+		"comparison": ">=",
+		"compare_to": 25
+	}	
+}

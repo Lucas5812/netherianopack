@@ -6,7 +6,7 @@
 		"value": 6,
 		"name": "recebe de volta os 3 corações de vida"
 	},
-	"tick_rate": 3,
+	"tick_rate": 20,
 	"condition": {
 		"type": "origins:xp_levels",
 		"comparison": ">=",

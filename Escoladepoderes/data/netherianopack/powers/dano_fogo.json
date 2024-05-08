@@ -1,0 +1,11 @@
+{
+	"type": "origins:modify_damage_taken",
+	"damage_condition": {
+		"type": "origins:fire"
+	},
+	"modifier": {
+		"name": "devido a suas propriedades, você toma consideravelmente mais dano ao queimar",
+		"operation": "addition",
+		"value": 1.5
+	}
+}
