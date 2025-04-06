@@ -2,7 +2,8 @@
 	"origins": [
 		"netherianopack:netheriano",
 		"netherianopack:draconico",
-		"netherianopack:sincelo"
+		"netherianopack:sincelo",
+		"netherianopack:raiosonico"
 	],
 	"replace": true
 }
