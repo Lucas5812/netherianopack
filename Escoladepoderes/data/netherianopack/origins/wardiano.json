@@ -1,7 +1,9 @@
 {
     "powers": [
         "netherianopack:brilhomob",
-		    "netherianopack:cegueira"
+	"netherianopack:cegueira",
+	"netherianopack:raiosonico"
+	    
 		
 	],
 
