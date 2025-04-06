@@ -1,0 +1,13 @@
+{
+    "powers": [
+        "netherianopack:brilhomob",
+		    "netherianopack:cegueira"
+		
+	],
+
+	"icon": "minecraft:sculk_catalyst",
+	"order": 10,
+	"impact": 3,
+	"name": "Wardiano",
+	"description": "Criado nas sombras e bla bla bla"
+}
