@@ -1,0 +1,16 @@
+{
+	"type": "origins:conditioned_attribute",
+	"modifier": {
+		"attribute": "minecraft:generic.armor",
+		"operation": "addition",
+		"value": 6.0
+	},
+	"tick_rate": 20,
+	"condition": {
+		"type": "origins:xp_levels",
+		"comparison": ">=",
+		"compare_to": 50
+	},
+	"name": "Resistência skulk[50+]",
+	"description": "Você é mais resistente devido as almas de skulk que lhe fortalecem"
+}

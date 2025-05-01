@@ -1,0 +1,17 @@
+{
+	"type": "origins:conditioned_attribute",
+	"modifier": {
+		"attribute": "minecraft:generic.max_health",
+		"operation": "addition",
+		"value": 20,
+		"name": "ganha uma barra a mais de vida"
+	},
+	"tick_rate": 20,
+	"condition": {
+		"type": "origins:xp_levels",
+		"comparison": ">=",
+		"compare_to": 20
+	},
+	"name": "Vitalidade Skulk[20+]",
+	"description": "Você é mais forte devido as almas de skulk que lhe fortalecem"
+}
